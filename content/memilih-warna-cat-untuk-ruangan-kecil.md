@@ -3,6 +3,8 @@ title: "Memilih Warna Cat untuk Ruangan Kecil"
 date: "2026-08-19"
 category: "Living"
 excerpt: "Tips memilih warna cat yang tepat untuk membuat ruangan kecil terlihat lebih luas, terang, dan tetap hangat serta nyaman."
+meta_title: "Tips Memilih Warna Cat untuk Ruangan Kecil"
+meta_description: "Warna cat yang tepat membuat ruangan kecil tampak lebih luas dan terang. Simak tips memilih warna, mempertimbangkan cahaya, dan paduan cat dengan lantai."
 tags: ["cat", "desain interior", "minimalis", "ruangan kecil"]
 ---
 

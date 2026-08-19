@@ -3,6 +3,8 @@ title: "Berkebun di Halaman Sempit: Tips dan Trik"
 date: "2026-08-18"
 category: "Living"
 excerpt: "Ide berkebun untuk lahan terbatas menggunakan pot, vertikal garden, dan pemilihan tanaman yang mudah dirawat."
+meta_title: "Berkebun di Halaman Sempit: Tips dan Trik Praktis"
+meta_description: "Lahan sempit bukan penghalang untuk berkebun. Manfaatkan pot, vertikal garden, dan pilih tanaman yang mudah dirawat agar halaman kecil tetap produktif."
 tags: ["berkebun", "urban farming", "halaman sempit"]
 ---
 

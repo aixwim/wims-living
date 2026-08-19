@@ -3,6 +3,8 @@ title: "Membersihkan Rumah Secara Efisien dalam Waktu Singkat"
 date: "2026-08-19"
 category: "Living"
 excerpt: "Strategi membersihkan rumah secara efisien dengan jadwal rutin, teknik cepat, dan pembagian tugas agar tidak menyita waktu."
+meta_title: "Cara Membersihkan Rumah Secara Efisien dan Cepat"
+meta_description: "Rumah bersih tanpa menyita waktu dengan strategi yang tepat. Pelajari cara membuat jadwal pembersihan, memilih peralatan, dan melibatkan seluruh keluarga."
 tags: ["membersihkan", "rumah rapi", "organisasi rumah", "rutinitas"]
 ---
 

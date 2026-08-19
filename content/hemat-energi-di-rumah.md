@@ -3,6 +3,8 @@ title: "Tips Hemat Energi di Rumah"
 date: "2026-08-18"
 category: "Living"
 excerpt: "Cara sederhana menghemat listrik dan air di rumah tanpa mengurangi kenyamanan, mulai dari pemakaian alat hingga kebiasaan harian."
+meta_title: "Tips Hemat Energi di Rumah yang Mudah Dilakukan"
+meta_description: "Kurangi tagihan listrik dan air tanpa mengurangi kenyamanan. Terapkan kebiasaan sederhana dari mengelola peralatan listrik hingga cahaya alami."
 tags: ["hemat energi", "irit listrik", "rumah hemat"]
 ---
 

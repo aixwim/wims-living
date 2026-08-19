@@ -3,6 +3,8 @@ title: "Mengatur Keuangan Rumah Tangga dengan Bijak"
 date: "2026-08-18"
 category: "Living"
 excerpt: "Panduan praktis mengelola keuangan keluarga mulai dari membuat anggaran, menyisihkan tabungan, hingga menekan pengeluaran."
+meta_title: "Mengatur Keuangan Rumah Tangga dengan Bijak"
+meta_description: "Kelola keuangan keluarga dengan anggaran realistis dan kebiasaan menabung. Temukan panduan praktis membangun stabilitas finansial rumah tangga."
 tags: ["keuangan rumah tangga", "mengatur keuangan", "anggaran keluarga"]
 ---
 

@@ -3,6 +3,8 @@ title: "Menata Ruang Tamu yang Nyaman dan Fungsional"
 date: "2026-08-19"
 category: "Living"
 excerpt: "Panduan menata ruang tamu yang nyaman dengan pilihan furnitur, tata cahaya, dan dekorasi sederhana untuk kenyamanan keluarga."
+meta_title: "Cara Menata Ruang Tamu yang Nyaman dan Fungsional"
+meta_description: "Ruang tamu yang nyaman tidak harus mahal. Pelajari cara memilih furnitur, mengatur pencahayaan, dan menata dekorasi sederhana untuk kenyamanan keluarga."
 tags: ["ruang tamu", "desain interior", "tata ruang", "dekorasi"]
 ---
 

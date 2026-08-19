@@ -3,6 +3,8 @@ title: "Berkebun Hidroponik di Rumah untuk Pemula"
 date: "2026-08-19"
 category: "Living"
 excerpt: "Panduan memulai berkebun hidroponik di rumah dengan media air dan nutrisi, cocok untuk lahan terbatas tanpa menggunakan tanah."
+meta_title: "Berkebun Hidroponik di Rumah untuk Pemula"
+meta_description: "Berkebun hidroponik di rumah kini mudah dilakukan tanpa tanah. Pelajari sistem sederhana, pilihan tanaman, dan cara merawat nutrisi agar panen sukses."
 tags: ["hidroponik", "berkebun", "sayuran", "tanpa tanah"]
 ---
 

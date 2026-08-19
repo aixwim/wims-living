@@ -3,6 +3,8 @@ title: "Tips Menjaga Udara Rumah Tetap Sehat"
 date: "2026-08-19"
 category: "Living"
 excerpt: "Cara menjaga kualitas udara di dalam rumah melalui ventilasi, pembersihan rutin, dan pemilihan tanaman penyaring udara."
+meta_title: "Tips Menjaga Udara Rumah Tetap Sehat dan Segar"
+meta_description: "Kualitas udara dalam rumah memengaruhi kesehatan keluarga. Simak cara menjaga udara tetap bersih lewat ventilasi, pembersihan rutin, dan tanaman penyaring."
 tags: ["udara sehat", "ventilasi", "kesehatan", "sirkulasi udara"]
 ---
 

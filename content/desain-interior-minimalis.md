@@ -3,6 +3,8 @@ title: "Desain Interior Minimalis untuk Hunian Kecil"
 date: "2026-08-18"
 category: "Living"
 excerpt: "Ide mendesain interior minimalis yang fungsional dan nyaman untuk hunian berukuran kecil di perkotaan."
+meta_title: "Desain Interior Minimalis untuk Hunian Kecil"
+meta_description: "Hunian kecil bisa tampil luas dan nyaman dengan desain minimalis. Simak prinsip dasar, cara memaksimalkan ruang, dan sentuhan dekorasi yang tepat."
 tags: ["desain interior", "rumah minimalis", "hunian kecil"]
 ---
 
